@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/yt-react/static/css/main.4328be8a.css",
+    "main.js": "/yt-react/static/js/main.2017755a.js",
+    "static/media/logo.ico": "/yt-react/static/media/logo.bad28b25e93bc72e8433.ico",
+    "index.html": "/yt-react/index.html",
+    "main.4328be8a.css.map": "/yt-react/static/css/main.4328be8a.css.map",
+    "main.2017755a.js.map": "/yt-react/static/js/main.2017755a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4328be8a.css",
+    "static/js/main.2017755a.js"
+  ]
+}
